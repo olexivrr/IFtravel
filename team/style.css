@@ -172,6 +172,10 @@ div {
      padding-right: 15px;
      box-sizing: border-box;
 }
+
+.main_contacts h1{
+	text-align: center;
+}
 	 
 .contacts_contents{
 	display: flex;
